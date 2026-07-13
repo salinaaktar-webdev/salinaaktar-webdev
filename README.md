@@ -1,4 +1,4 @@
-<img src="img/Salina Aktar.jpg" alt="Salina Aktar" width="300">
+<img src="img/Salina Aktar.jpg" alt="Salina Aktar" width="600" height="200">
 <h1 align="center">Hi 👋, I'm Salina Aktar</h1>
 <h3 align="center">Creating modern, responsive & user-friendly websites focused on quality and performance</h3>
 
