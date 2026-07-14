@@ -1,4 +1,4 @@
-<img src="https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/473571660_122186017886140823_2745085788465817314_n.jpg?stp=dst-jpg_tt6&cstp=mx600x200&ctp=s600x200&_nc_cat=105&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=6gWImhON4m4Q7kNvwFxMBkc&_nc_oc=AdpPs-skotOAX0WQ5Spk7UNdWhjiPArdt8JDIzZcndLU4nSFkYBWRFvUyej2YOpVwvQ&_nc_zt=23&_nc_ht=scontent.fdac7-1.fna&_nc_gid=TWVy40YFEO3c7CQqL4DGaw&_nc_ss=7b2a8&oh=00_AQA2Nei15Su1KZRGuv91wUovTsfxy5MsTJjaPrriQC5fqw&oe=6A5ADA5B" alt="Salina Aktar" width="930" height="250">
+<img src="https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/473571660_122186017886140823_2745085788465817314_n.jpg?stp=dst-jpg_tt6&cstp=mx600x200&ctp=s600x200&_nc_cat=105&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=6gWImhON4m4Q7kNvwFxMBkc&_nc_oc=AdpPs-skotOAX0WQ5Spk7UNdWhjiPArdt8JDIzZcndLU4nSFkYBWRFvUyej2YOpVwvQ&_nc_zt=23&_nc_ht=scontent.fdac7-1.fna&_nc_gid=TWVy40YFEO3c7CQqL4DGaw&_nc_ss=7b2a8&oh=00_AQA2Nei15Su1KZRGuv91wUovTsfxy5MsTJjaPrriQC5fqw&oe=6A5ADA5B" alt="Salina Aktar" width="930" height="300">
 <h1 align="center">Welcome to My Profile 👋</h1>
 <h3 align="center">Creating modern, responsive & user-friendly websites focused on quality and performance</h3>
 
